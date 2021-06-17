@@ -1,0 +1,23 @@
+input[type=text],input[type=email]{
+    color: #0824e5;
+    font-size: 20px;
+    font-weight: 700;
+    border: 1px solid deeppink;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+}
+input[type=tel]{
+    color: #e71812;
+}
+input[type=checkbox]{
+    color: chartreuse;
+}
+select[name=city]{
+    color: #f1b605;
+    width: 200px;
+    height: 40px;
+}
+textarea{
+    max-width: 100%;
+}
