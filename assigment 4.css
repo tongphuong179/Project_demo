@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100%;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section{
+    background-image: url("https://vinbarista.cdn.vccloud.vn/uploads/news/cover-ca-phe-hat-vi-sao-nen-dung-202009250957.jpg");
+    background-size: cover;
+    float: left;
+    width: 100%;
+    height: 500px;
+}
+.container{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin-top: -270px;
+}
+.logo{
+    float: left;
+    width: 20%;
+}
+.logo a{
+    font-size:  30px;
+    margin-left: 60px;
+    text-decoration: none;
+    color: #f1b605;
+}
+.toplinks{
+    float: left;
+    width: 40%;
+}
+.toplinks ul{
+    float: left;
+    margin-left: 130px;
+}
+.toplinks li{
+    float: left;
+    text-align: center;
+    margin-left: 50px;
+    list-style: none;
+    position: relative;
+    left: 170px;
+}
+.toplinks li a{
+    color: #0824e5;
+    text-decoration: none;
+    font-weight: 500px;
+}
+.link{
+    float: right;
+    margin-right: 50px;
+}
+.txt{
+    float: left;
+    margin-left: 70px;
+}
+.lax{
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: #fa0404;
+    letter-spacing:6px;
+}
+p{
+    color: #e71812;
+    letter-spacing: 2px;
+}
+.box{
+    width: 100px;
+    height: 30px;
+    color: white;
+    border: 2px solid #fcfcfc;
+    position: relative;
+    left: 930px;
+    bottom: -20px;
+}
+.hi a{
+    color: #a8a1a1;
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+
+}
+.bot{
+    width: 100%;
+    height: 2300px;
+    background-color: #a8a1a1;
+}
+.box1{
+    float: left;
+    width: 500px;
+    height: 510px;
+    background-color: antiquewhite;
+    margin: 20px;
+    position: relative;
+    right: -150px;
+}
+.bot a{
+    margin: auto;
+}
+.delta{
+    margin: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+.jan{
+    color: #a8a1a1;
+    margin: 20px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.box2 .hi2 a{
+    margin: 20px;
+    text-transform: uppercase;
+    color: #a8a1a1;
+}
+.box3{
+    border-width: 3px;
+    border-style: dotted;
+    border-color: #0824e5;
+    -webkit-border-radius: 15px;
+    width: 140px;
+    height: 20px;
+    float: left;
+    margin-top: 600px;
+    margin-left: -725px;
+    text-transform: uppercase;
+}
+.box3 a{
+    margin: 16px;
+}
+footer{
+    float: left;
+    width: 100%;
+    height: 150px;
+}
+.footer ul{
+    float: left;
+    margin-left: 130px;
+}
+.footer li{
+    float: left;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 25px;
+    list-style: none;
+    position: relative;
+    left: 270px;
+}
+.footer li a {
+    color: #0824e5;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-weight: 500px;
+}
+hr{
+    width: 100%;
+    margin-top: 80px;
+}
+.nav{
+    float: left;
+    width: 100%;
+}
+.nav ul{
+    float: left;
+    margin-left: 550px;
+}
+.nav li{
+    float: left;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    list-style: none;
+    position: relative;
+    left: 170px;
+}
+.nav li a{
+    color: #04050c;
+    text-decoration: none;
+    font-weight: 500px;
+}
+#n1{
+    text-transform: capitalize;
+    margin-top: 40px;
+    margin-left: 750px;
+}
+
+
+
